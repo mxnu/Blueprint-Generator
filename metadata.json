@@ -1,0 +1,5 @@
+{
+  "name": "3D Blueprint Generator",
+  "description": "An educational web app for 3D modeling students. Upload or generate an image, and the app will create front, top, and side view blueprints of the object, ready for practice in 3D modeling software.",
+  "requestFramePermissions": []
+}
